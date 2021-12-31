@@ -1,1 +1,1 @@
-# Reimplementing Autoencoder for Image SuperResolution from Francois Chollet's 2016 Paper
+# Reimplementing Autoencoder for Image SuperResolution from Chollet 2016 
